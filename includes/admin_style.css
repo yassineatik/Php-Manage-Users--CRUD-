@@ -7,6 +7,9 @@
     border-spacing: 0 10px;
     bottom: 20px;
 } */
+body {
+    background-color: rgb(124, 94, 91);
+}
 
 td {
     padding: 14px;
