@@ -1,0 +1,67 @@
+* {
+    margin: 10px 0 0 4px;
+}
+
+/* table {
+    border-collapse: separate;
+    border-spacing: 0 10px;
+    bottom: 20px;
+} */
+
+td {
+    padding: 14px;
+}
+
+/* a {
+    text-decoration: none;
+    border: 1px black solid;
+    background-color: antiquewhite;
+    text-align: center;
+    padding: 4px 8px;
+    margin: 10px;
+    color: rgb(95, 142, 144);
+    border-radius: 3px;
+} */
+
+a:hover {
+    background-color: rgb(95, 139, 141);
+    color: antiquewhite;
+}
+
+p {
+    margin: 14px;
+}
+
+
+h4 {
+    width: 300px;
+    padding: 10px;
+    background-color: darkcyan;
+    color: rgb(156, 234, 78);
+    text-align: center;
+}
+
+
+form {
+    margin-left: 10px;
+}
+
+.mb-3 {
+    width: 400px;
+}
+
+
+th {
+    text-align: center;
+    border: 1px solid black;
+    padding: 10px;
+
+}
+
+
+td {
+    text-align: center;
+    border: 1px solid black;
+    padding: 10px;
+    margin-top: -70px;
+}
